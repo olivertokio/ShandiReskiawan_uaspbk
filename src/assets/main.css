@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global base style */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f4f4f4;
+  color: #111;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+button {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Reusable utility classes */
+.badge-sale {
+  @apply absolute top-2 left-2 bg-red-500 text-white text-xs px-2 py-1 rounded;
+}
+
+.product-card {
+  @apply relative bg-white rounded-2xl p-4 shadow hover:shadow-lg transition-transform hover:-translate-y-1 duration-200;
+}
+
+.rating-stars {
+  @apply flex items-center text-yellow-500 text-sm mt-2;
+}
+
+.grid-products {
+  @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6;
+}
+
+.section-title {
+  @apply text-2xl font-bold mb-4 text-gray-800;
+}
+
+.btn-orange {
+  @apply bg-orange-500 hover:bg-orange-600 text-white font-semibold px-6 py-2 rounded-full transition;
+}
+
+.btn-outline-orange {
+  @apply border-2 border-orange-500 text-orange-500 hover:bg-orange-100 px-6 py-2 rounded-full font-semibold transition;
+}
+
+.text-muted {
+  @apply text-sm text-gray-500;
+}

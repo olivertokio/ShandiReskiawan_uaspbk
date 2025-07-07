@@ -1,0 +1,247 @@
+{
+  "produk": [
+    {
+      "id": "101",
+      "nama": "Whey Protein",
+      "kategori": "Suplemen",
+      "harga": 10.91,
+      "stok": 100,
+      "gambar": "https://m.media-amazon.com/images/I/71IiB1JKWbL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "102",
+      "nama": "Shaker Botol",
+      "kategori": "botol",
+      "harga": 10.99,
+      "stok": 100,
+      "gambar": "https://naturalfarm.sgp1.cdn.digitaloceanspaces.com/uploads/products/original-shaker-optimum-nutrition-bening-grey-68392fe7f166f.jpeg"
+    },
+    {
+      "id": "103",
+      "nama": "Dumbble",
+      "kategori": "Suplemen",
+      "harga": 10.999,
+      "stok": 100,
+      "gambar": "https://www.panattasport.com/wp-content/uploads/2023/03/1rd025-1rd50-jpg-webp.webp"
+    },
+    {
+      "id": "104",
+      "nama": "Ultimate Nutrition",
+      "kategori": "Suplemen",
+      "harga": 12.99,
+      "stok": 100,
+      "gambar": "https://ceklist.id/wp-content/uploads/2021/08/7.-Ultimate-Nutrition-Amino-Gold.jpg"
+    },
+    {
+      "id": "105",
+      "nama": " Herba Mojo ",
+      "kategori": "Suplemen",
+      "harga": 10,
+      "stok": 100,
+      "gambar": "https://ceklist.id/wp-content/uploads/2021/08/3.-Herba-Mojo-7-90-Capsule-Bundling.jpg"
+    },
+    {
+      "id": "106",
+      "nama": "Evolene Evomass",
+      "kategori": "Suplemen",
+      "harga": 10.99,
+      "stok": 100,
+      "gambar": "https://ceklist.id/wp-content/uploads/2021/08/2.-Evolene-Evomass-Cokelat.jpg"
+    },
+    {
+      "id": "107",
+      "nama": "Creatine Crevolene",
+      "kategori": "Suplemen",
+      "harga": 8.99,
+      "stok": 100,
+      "gambar": "https://thefitzone.co.id/cdn/shop/files/dcc6af43-1db1-4ffe-ae3d-c85200116340.png?v=1750404267&width=416"
+    },
+    {
+      "id": "108",
+      "nama": "Muscle First Pro",
+      "kategori": "Suplemen",
+      "harga": 11.99,
+      "stok": 100,
+      "gambar": "https://ceklist.id/wp-content/uploads/2021/08/1.-Muscle-First-Pro-Creatine-Tropical-Fruit.jpg"
+    },
+    {
+      "id": "109",
+      "nama": "Shaker Atalon",
+      "kategori": "Suplemen",
+      "harga": 10.99,
+      "stok": 100,
+      "gambar": "https://www.atalon.id/cdn/shop/files/FPK202407181.jpg?v=1721900094&width=2048"
+    },
+    {
+      "id": "110",
+      "nama": "Shaker",
+      "kategori": "botol",
+      "harga": 7.99,
+      "stok": 100,
+      "gambar": "https://id.cn-bottle.com/uploads/202221630/protein-gym-shaker-water-bottle08334510548.jpg"
+    },
+    {
+      "id": "111",
+      "nama": "Shaker Botol",
+      "kategori": "Suplemen",
+      "harga": 7,
+      "stok": 100,
+      "gambar": "https://image.made-in-china.com/202f0j00PtoknclRYrbD/Shaker-Bottle-Perfect-for-Protein-Shakes-and-Pre-Workout-Shaking-Cup.webp"
+    }
+  ],
+  "keranjang": [
+    {
+      "id": 1751921569337,
+      "nama": "Shaker Botol",
+      "harga": 7,
+      "gambar": "https://image.made-in-china.com/202f0j00PtoknclRYrbD/Shaker-Bottle-Perfect-for-Protein-Shakes-and-Pre-Workout-Shaking-Cup.webp",
+      "jumlah": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "nama": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "c86b",
+      "name": "shan",
+      "email": "shan@gmail.com",
+      "password": "s1234567"
+    },
+    {
+      "id": "d496",
+      "name": "sandy",
+      "email": "sandy@gmail.com",
+      "password": "sandy123"
+    },
+    {
+      "id": "07ed",
+      "name": "habib",
+      "email": "habib@gmail.com",
+      "password": "habib123"
+    },
+    {
+      "id": "ba70",
+      "name": "wahyu",
+      "email": "wahyu@gmail.com",
+      "password": "wahyu123"
+    }
+  ],
+  "members": [
+    {
+      "id": "9dc3",
+      "nama": "shan",
+      "kategori": "Regular",
+      "tanggalGabung": "2025-07-07"
+    },
+    {
+      "id": "8d41",
+      "nama": "Oliver",
+      "kategori": "VIP",
+      "tanggalGabung": "2025-07-07"
+    },
+    {
+      "id": "5693",
+      "nama": "habib",
+      "kategori": "Premium",
+      "tanggalGabung": "2025-07-07"
+    },
+    {
+      "id": "9c4f",
+      "nama": "wahyu",
+      "kategori": "VIP",
+      "tanggalGabung": "2025-07-07"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "name": "Admin Boss"
+    }
+  ],
+  "transaksi": [
+    {
+      "id": "1",
+      "nama": "Oliver",
+      "tanggal": "2025-07-07",
+      "produk": [
+        {
+          "nama": "Whey Protein",
+          "jumlah": 2,
+          "harga": 10.99
+        },
+        {
+          "nama": "Creatine",
+          "jumlah": 1,
+          "harga": 12.99
+        }
+      ]
+    },
+    {
+      "id": "d5bb",
+      "nama": "habib",
+      "tanggal": "2025-07-07",
+      "produk": [
+        {
+          "nama": "Whey Protein",
+          "jumlah": 1,
+          "harga": 10.99
+        },
+        {
+          "nama": "Dumbble",
+          "jumlah": 1,
+          "harga": 10.99
+        }
+      ]
+    },
+    {
+      "id": "dcdd",
+      "nama": "faiz",
+      "tanggal": "2025-07-07",
+      "produk": [
+        {
+          "nama": "Whey Protein",
+          "jumlah": 1,
+          "harga": 10.99
+        },
+        {
+          "nama": "Dumbble",
+          "jumlah": 1,
+          "harga": 10.99
+        },
+        {
+          "nama": "Shaker Botol",
+          "jumlah": 1,
+          "harga": 10.95
+        },
+        {
+          "nama": "Shaker Botol",
+          "jumlah": 1,
+          "harga": 10.95
+        }
+      ]
+    },
+    {
+      "id": "03d1",
+      "nama": "wahyu",
+      "tanggal": "2025-07-07",
+      "produk": [
+        {
+          "nama": "Shaker Botol",
+          "jumlah": 1,
+          "harga": 10.99
+        },
+        {
+          "nama": "Whey Protein",
+          "jumlah": 1,
+          "harga": 10.91
+        }
+      ]
+    }
+  ]
+}
